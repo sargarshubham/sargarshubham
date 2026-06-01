@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Shubham</h1>
 <h3 align="center">Java Full Stack Developer | Spring Boot | React | MySQL</h3>
 
-- 🌱 🌱 Currently learning Spring Boot, React and DSA
+- 🌱 Currently learning Spring Boot, React and DSA
 
 - 💬 Ask me about **Java,React**
 
