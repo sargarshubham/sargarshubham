@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Shubham</h1>
-<h3 align="center">A passionate Java FullStack developer from India</h3>
+<h3 align="center">Java Full Stack Developer | Spring Boot | React | MySQL</h3>
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 🌱 Currently learning Spring Boot, React and DSA
 
 - 💬 Ask me about **Java,React**
 
